@@ -1,2 +1,2 @@
 # Natours
-Booking Web Application
+A Booking Web Application
